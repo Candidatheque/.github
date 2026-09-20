@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Candidathèque">
+  <title>Candidathèque</title>
+  <style>.blue{fill:#3B7DDD}.red{fill:#F05545}.paper{fill:#F7F7F5}.ink{fill:#F2F2EF}.sub{fill:#A5A5A0}</style>
+  <g transform="translate(68.72,40) scale(1.2486)">
+  <g id="marque">
+    <polygon class="blue" points="122,16 122,330 0,260 0,87"/>
+    <polygon class="paper" points="122,16 150,0 178,16 178,330 150,346 122,330"/>
+    <polygon class="red" points="178,16 300,87 300,260 178,330"/>
+    <path class="paper" d="M35 107 L87 77 L87 140 L126 140 L126 207 L87 207 L87 269 L35 239 Z"/>
+    <path class="paper" d="M213 77 L267 108 L267 191 L213 222 Z"/>
+    <path class="paper" d="M213 253 L267 222 L267 238 L213 269 Z"/>
+  </g>
+  </g>
+</svg>
