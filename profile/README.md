@@ -14,7 +14,3 @@
   <a href="https://github.com/Candidatheque/web">web</a> ·
   <a href="https://github.com/Candidatheque/home">home</a>
 </p>
-
-<p align="center">
-  <sub>Rien n'est encore publié.</sub>
-</p>
