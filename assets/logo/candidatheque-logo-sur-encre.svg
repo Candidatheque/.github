@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-40 -40 1224 426" width="1224" height="426" role="img" aria-label="Candidathèque — la présidentielle en données ouvertes">
   <title>Candidathèque — la présidentielle en données ouvertes</title>
-  <style>.blue{fill:#3B7DDD}.red{fill:#F05545}.paper{fill:#F7F7F5}.ink{fill:#F2F2EF}.sub{fill:#A5A5A0}</style>
+  <style>.blue{fill:#2F6FD0}.red{fill:#E0392B}.paper{fill:#FFFFFF}.ink{fill:#F2F2EF}.sub{fill:#A5A5A0}</style>
   <rect x="-40" y="-40" width="1224" height="426" fill="#1C1C1A"/>
   <g id="marque">
     <polygon class="blue" points="122,16 122,330 0,260 0,87"/>

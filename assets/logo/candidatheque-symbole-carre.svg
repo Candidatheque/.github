@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Candidathèque">
   <title>Candidathèque</title>
-  <style>.blue{fill:#1B4F9C}.red{fill:#E0392B}.paper{fill:#FFFFFF}.ink{fill:#2B2B2B}.sub{fill:#6B6B6B}@media(prefers-color-scheme:dark){.blue{fill:#3B7DDD}.red{fill:#F05545}.paper{fill:#F7F7F5}.ink{fill:#F2F2EF}.sub{fill:#A5A5A0}}</style>
+  <style>.blue{fill:#2F6FD0}.red{fill:#E0392B}.paper{fill:#FFFFFF}</style>
   <g transform="translate(68.72,40) scale(1.2486)">
   <g id="marque">
     <polygon class="blue" points="122,16 122,330 0,260 0,87"/>

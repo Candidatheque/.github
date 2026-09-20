@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-52 -40 404 426" width="404" height="426" role="img" aria-label="Candidathèque">
   <title>Candidathèque</title>
-  <style>.blue{fill:#1B4F9C}.red{fill:#E0392B}.paper{fill:#FFFFFF}.ink{fill:#2B2B2B}.sub{fill:#6B6B6B}</style>
+  <style>.blue{fill:#2F6FD0}.red{fill:#E0392B}.paper{fill:#FFFFFF}</style>
   <rect x="-52" y="-40" width="404" height="426" fill="#E8DCC6"/>
   <g id="marque">
     <polygon class="blue" points="122,16 122,330 0,260 0,87"/>
